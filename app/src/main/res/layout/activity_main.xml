@@ -100,7 +100,7 @@
 
             <Button
                 android:id="@+id/create_alarm"
-                android:layout_width="wrap_content"
+                android:layout_width="175dp"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="20dp"
 
@@ -172,7 +172,7 @@
 
             <Button
                 android:id="@+id/cancel_button_alarm"
-                android:layout_width="wrap_content"
+                android:layout_width="178dp"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="20dp"
 
